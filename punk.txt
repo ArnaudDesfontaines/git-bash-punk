@@ -1,3 +1,15 @@
-Je collectionne les canards par milliers !
-Hello Pol
-Bientôt la vraie vie du travail, avec des salaires et des impôts et un crédit immobilier.
+Liste des commandes GitBash
+- "pwd": savoir dans quel répertoire on se trouve
+- "clear": pour effacer la console
+- "ls" et "ls -a": pour afficher les fichiers et les fichiers cachés
+- "mv": pour déplacer ou renommer un fichier
+- "cat": pour voir le contenu du repo
+- "rm -rf XYZERT": pour supprimer un répertoire
+
+Liste des commandes VIM
+- ":w": pour sauvegarder
+- "wq": pour sauvegarder et quitter
+- ":q!: pour quitter définitivement
+- "dd": pour supprimer une ligne dans la console
+- "u": pour annuler une action
+- "p": pour coller
