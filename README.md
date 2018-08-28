@@ -1,5 +1,8 @@
-
+Plein de commandes !!
+===
 Liste de commandes Git:
+---
+
 - git clone url : télécharge un fichier provenant de l'url sur l'ordinateur local
 - git remote -v: c'est pour voir vers quelle adresse tu es dirigé
 - git status : vérifie le statut du repository courant
@@ -7,7 +10,8 @@ Liste de commandes Git:
 - git commit : commit
 - git push:push
 
-Liste des commandes GitBash
+Liste des commandes 
+---
 - "pwd": savoir dans quel répertoire on se trouve
 - "clear": pour effacer la console
 - "ls": pour afficher les fichiers mais pas les fichiers cachés 
@@ -17,6 +21,7 @@ Liste des commandes GitBash
 - "rm -rf XYZERT": pour supprimer un répertoire, un fichier ou un autre truc.
 
 Liste des commandes VIM
+---
 - ":w": pour sauvegarder
 - "wq": pour sauvegarder et quitter
 - ":q!: pour quitter sans sauvegarder
